@@ -1,2 +1,2 @@
 # codabot
-Just a kind of funny game
+funny game
